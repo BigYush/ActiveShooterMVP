@@ -12,5 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-*.idea
+.idea
 Content
