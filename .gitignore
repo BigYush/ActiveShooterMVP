@@ -13,4 +13,6 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .idea
-Content
+Content/MetaHumans
+Content/MetaHumanRetarget
+Content/ModularBuildingSet
